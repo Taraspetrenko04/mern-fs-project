@@ -1,0 +1,17 @@
+/bower_components/
+server/node_modules
+client/node_modules
+node_modules
+*.psd
+*.gif
+*.zip
+*.idea
+*.DS_Storegit
+_brief/
+.DS_Store
+.idea
+ *.env
+ server/.env
+server/package-lock.json
+client/yarn.lock
+*.lock

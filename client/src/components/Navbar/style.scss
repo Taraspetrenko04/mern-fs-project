@@ -1,0 +1,28 @@
+.nav__wrapper{
+    max-width: 1200px;
+    padding: 0 20px 0 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(85, 82, 255);
+    font-family: sans-serif;
+}
+.nav__logo{
+    font-size: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFFF;
+}
+.nav__list{
+    padding: 0px 0px 0px 0px;
+}
+.nav__list li{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+.nav__list a{
+    color: #FFFF;
+}
+
